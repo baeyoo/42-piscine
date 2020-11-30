@@ -1,0 +1,5 @@
+Credentials cache: API:5C0607F8-3F75-43E7-B580-03082DD67F8A
+        Principal: mobrycki@42ROMA.IT
+
+  Issued                Expires               Principal
+Nov 24 11:01:50 2020  Nov 24 21:01:44 2020  krbtgt/42ROMA.IT@42ROMA.IT
